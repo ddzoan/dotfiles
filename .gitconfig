@@ -1,0 +1,10 @@
+[alias]
+    co = checkout
+    st = status
+    unstage = reset HEAD --
+    ci = commit
+[user]
+    name = Dan Dzoan
+    email = dandzoan@gmail.com
+[core]
+    excludesfile = ~/.gitignore_global
